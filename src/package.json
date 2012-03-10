@@ -1,0 +1,20 @@
+{
+  "author": " <eric@chomp.us> (http://techosaur.us/)",
+  "name": "src",
+  "description": "Rolls the dice!",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+      "qwery": "3.x"
+    , "bean": "0.4.x"
+    , "bonzo": "1.x"
+    , "domready": "0.2.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
